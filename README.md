@@ -1,6 +1,6 @@
 ## 提示
 
-目前主要是文档修复，不进行代码更新及推送到npm
+目前主要是修复pomelo及其插件的文档，不进行代码更新及推送到npm
 
 ## Pomelo -- a fast, scalable game server framework for node.js
 
